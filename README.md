@@ -37,7 +37,7 @@ Dla przykładu:
 - BookedHotelOrNot Yes
 
 W przeglądarce:
-http://localhost:5000/api/predict?&age=48&FF='No'&AI='Middle Income'&SO=6&SM='No'&HT='Yes'
+`http://localhost:5000/api/predict?&age=48&FF='No'&AI='Middle Income'&SO=6&SM='No'&HT='Yes'`
 
 
 Rezultat:
